@@ -1,3 +1,15 @@
 As a presentable MVP, we will start out focusing on the Danish traffic law, as an area of law that can be easier to implement mechanically / is often determinable relatively objectively on the facts, without need for too much interpretation or human jugement.
  - We discussed this with a legal scholar
  - and this has thus also e.g. been the law area of focus for ph.d. Jonas Vistrup in his research.
+
+
+----------
+
+
+SWOT Analysis
+
+Opportunities:
+Training AI on legal rules based on publicly declared regulations should not be problematic for GDPR.
+
+Threats:
+Pseudonymized not equal to anonymized, so will EU e.g. accept training AI on actual case materials?
