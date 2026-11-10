@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="1200" height="1200">
+  <title>Legal Lean</title>
+  <defs>
+    <clipPath id="r1"><rect x="0" y="12.7" width="120" height="40.6"/></clipPath>
+    <clipPath id="r2"><rect x="0" y="66.7" width="120" height="40.6"/></clipPath>
+  </defs>
+  <rect width="120" height="120" fill="#000"/>
+  <g fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="20">
+    <path d="M14.000 14.000 L14.000 106.000 L30.000 106.000"/>
+    <path d="M14 60.0 H107.3" stroke-linecap="butt"/>
+    <path d="M51.100 14.000 L38.000 14.000 L38.000 52.000 L51.100 52.000 M38.000 33.000 L48.480 33.000 M69.400 14.000 L56.300 14.000 L56.300 52.000 L69.400 52.000 L69.400 33.760 L62.850 33.760 M73.945 55.800 L81.150 14.000 L88.355 55.800 M92.900 14.000 L92.900 52.000 L106.000 52.000" clip-path="url(#r1)"/>
+    <path d="M56.400 68.000 L38.000 68.000 L38.000 106.000 L56.400 106.000 M38.000 87.000 L52.720 87.000 M61.880 109.800 L72.000 68.000 L82.120 109.800 M87.600 106.000 L87.600 68.000 L106.000 106.000 L106.000 68.000" clip-path="url(#r2)"/>
+    <path d="M76.827 39.080 H85.473 M65.928 93.080 H78.072" stroke-linecap="butt"/>
+  </g>
+</svg>
