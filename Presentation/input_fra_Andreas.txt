@@ -9,7 +9,11 @@ As a presentable MVP, we will start out focusing on the Danish traffic law, as a
 SWOT Analysis
 
 Opportunities:
-Training AI on legal rules based on publicly declared regulations should not be problematic for GDPR.
+Structuring legal paragraphs
+- for AI training
+- as source of reference
+(Training AI on legal rules based on publicly declared regulations should not be problematic for GDPR.)
 
 Threats:
-Pseudonymized not equal to anonymized, so will EU e.g. accept training AI on actual case materials?
+Cases: Pseudonymized != anonymized
+(Pseudonymized not equal to anonymized, so will EU e.g. accept training AI on actual case materials?)
