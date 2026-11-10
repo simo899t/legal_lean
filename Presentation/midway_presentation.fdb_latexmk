@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1794313352.87376 "midway_presentation.tex" "midway_presentation.pdf" "midway_presentation" 1794313354.38024 0
+["pdflatex"] 1794317444.9698 "midway_presentation.tex" "midway_presentation.pdf" "midway_presentation" 1794317447.25554 0
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm.enc" 1529098226 2409 c64dab22331c83731e970f6020b4448b ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc" 1529098226 3124 3813fd4c981d99822890a2861b0d274c ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -231,11 +231,17 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1763026330 5528330 eec9f591f2298dceaf6e205421f7c595 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1763026561 3635374 23cc4a0e5216e4aa9b385d9074ec42e5 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
+  "assets/idea-funnel.png" 1794314559.30907 186108 33b5231250e41ad44121de74f741e2b1 ""
+  "assets/lean_example.png" 1794316733.01039 214990 73b8ee9c637c536f3201749019870003 ""
+  "assets/lean_example2.png" 1794316733.01115 50726 760b1ee4f848e1da6cad253cf294c3b2 ""
+  "assets/lean_example_fail.png" 1794316733.01235 215318 0b47f789e7dba18dd074c33d22c9a37a ""
+  "assets/lean_example_fail2.png" 1794316733.01288 32324 8d3b63584274035ab68cb6a78c58817b ""
   "assets/legal-lean-logo-black.png" 1794313159.97582 57286 421c8c70b9800ebaa27fde1cc106568f ""
-  "midway_presentation.aux" 1794313354.30799 793 720e6747c9843869d40006be6548bbe2 "pdflatex"
-  "midway_presentation.nav" 1794313354.30876 395 8eddeed457d35768e6107f6cbe1667a0 "pdflatex"
-  "midway_presentation.out" 1794313353.82913 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "midway_presentation.tex" 1794313159.94509 3876 df90669ab8799162334f4bc4fc672637 ""
+  "assets/stakeholder_mapping.png" 1794315051.74993 357997 cbe95f455ce6165d95fe6ce8828ab997 ""
+  "midway_presentation.aux" 1794317447.17049 1765 7c4e1df4e29b5f6dedd8bd75398b5369 "pdflatex"
+  "midway_presentation.nav" 1794317447.17185 923 e7cfad94c2a55f545518c3d4e6a65437 "pdflatex"
+  "midway_presentation.out" 1794317445.99661 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "midway_presentation.tex" 1794317441.02017 6227 895b0b15178fd7a4f32655137de578e5 ""
   (generated)
   "midway_presentation.aux"
   "midway_presentation.log"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.13)  10 NOV 2026 13:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.13)  10 NOV 2026 14:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -971,82 +971,82 @@ LaTeX Font Info:    Font shape `TS1/qhv/m/n' will be
 <assets/legal-lean-logo-black.png, id=14, 2055.68pt x 2055.68pt>
 File: assets/legal-lean-logo-black.png Graphic file (type png)
 <use assets/legal-lean-logo-black.png>
-Package pdftex.def Info: assets/legal-lean-logo-black.png  used on input line 117.
+Package pdftex.def Info: assets/legal-lean-logo-black.png  used on input line 119.
 (pdftex.def)             Requested size: 86.42465pt x 86.41638pt.
 LaTeX Font Info:    Font shape `OT1/qhv/b/n' will be
-(Font)              scaled to size 13.53603pt on input line 117.
-LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 117.
+(Font)              scaled to size 13.53603pt on input line 119.
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 119.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/newtx/ot1minntx.fd
 File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
 )
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 14.4pt on input line 117.
+(Font)              scaled to size 14.4pt on input line 119.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 10.5pt on input line 117.
+(Font)              scaled to size 10.5pt on input line 119.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 7.9pt on input line 117.
+(Font)              scaled to size 7.9pt on input line 119.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 14.4pt on input line 117.
+(Font)              scaled to size 14.4pt on input line 119.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 10.5pt on input line 117.
+(Font)              scaled to size 10.5pt on input line 119.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 7.9pt on input line 117.
+(Font)              scaled to size 7.9pt on input line 119.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 14.4pt on input line 117.
+(Font)              scaled to size 14.4pt on input line 119.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 10.5pt on input line 117.
+(Font)              scaled to size 10.5pt on input line 119.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 7.9pt on input line 117.
+(Font)              scaled to size 7.9pt on input line 119.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 14.4pt on input line 117.
+(Font)              scaled to size 14.4pt on input line 119.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 10.5pt on input line 117.
+(Font)              scaled to size 10.5pt on input line 119.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 7.9pt on input line 117.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 117.
+(Font)              scaled to size 7.9pt on input line 119.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 119.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 117.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 119.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 117.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 119.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 14.4pt on input line 117.
+(Font)              scaled to size 14.4pt on input line 119.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 10.5pt on input line 117.
+(Font)              scaled to size 10.5pt on input line 119.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 7.9pt on input line 117.
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 117.
+(Font)              scaled to size 7.9pt on input line 119.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 119.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 14.4pt on input line 117.
+(Font)              scaled to size 14.4pt on input line 119.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 10.5pt on input line 117.
+(Font)              scaled to size 10.5pt on input line 119.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 7.9pt on input line 117.
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 117.
+(Font)              scaled to size 7.9pt on input line 119.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 119.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 14.4pt on input line 117.
+(Font)              scaled to size 14.4pt on input line 119.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 10.5pt on input line 117.
+(Font)              scaled to size 10.5pt on input line 119.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 7.9pt on input line 117.
+(Font)              scaled to size 7.9pt on input line 119.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 14.4pt on input line 117.
+(Font)              scaled to size 14.4pt on input line 119.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 10.5pt on input line 117.
+(Font)              scaled to size 10.5pt on input line 119.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 7.9pt on input line 117.
+(Font)              scaled to size 7.9pt on input line 119.
  [2{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm.enc}
 
 
@@ -1054,16 +1054,156 @@ pdfTeX warning (ext4): destination with the same identifier (name{Navigation1}) 
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.117 \end{frame}
+l.119 \end{frame}
                  
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.117 \end{frame}
+l.119 \end{frame}
                  
 
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
+<assets/lean_example.png, id=25, 931.48pt x 384.43625pt>
+File: assets/lean_example.png Graphic file (type png)
+<use assets/lean_example.png>
+Package pdftex.def Info: assets/lean_example.png  used on input line 142.
+(pdftex.def)             Requested size: 268.87737pt x 110.96744pt.
+<assets/lean_example2.png, id=27, 1229.59375pt x 73.27374pt>
+File: assets/lean_example2.png Graphic file (type png)
+<use assets/lean_example2.png>
+Package pdftex.def Info: assets/lean_example2.png  used on input line 142.
+(pdftex.def)             Requested size: 268.87737pt x 16.023pt.
+ [3
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation2}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.142 \end{frame}
+                 
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.142 \end{frame}
+                 
+
+ <./assets/legal-lean-logo-black.png>]
+<assets/lean_example_fail.png, id=35, 931.48pt x 384.43625pt>
+File: assets/lean_example_fail.png Graphic file (type png)
+<use assets/lean_example_fail.png>
+Package pdftex.def Info: assets/lean_example_fail.png  used on input line 165.
+(pdftex.def)             Requested size: 268.87737pt x 110.96744pt.
+<assets/lean_example_fail2.png, id=36, 1229.59375pt x 73.27374pt>
+File: assets/lean_example_fail2.png Graphic file (type png)
+<use assets/lean_example_fail2.png>
+Package pdftex.def Info: assets/lean_example_fail2.png  used on input line 165.
+(pdftex.def)             Requested size: 268.87737pt x 16.023pt.
+ [4
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation3}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.165 \end{frame}
+                 
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.165 \end{frame}
+                 
+
+ <./assets/lean_example.png> <./assets/lean_example2.png>]
+<assets/idea-funnel.png, id=45, 742.775pt x 435.6275pt>
+File: assets/idea-funnel.png Graphic file (type png)
+<use assets/idea-funnel.png>
+Package pdftex.def Info: assets/idea-funnel.png  used on input line 179.
+(pdftex.def)             Requested size: 268.87737pt x 157.69655pt.
+ [5
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation4}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.179 \end{frame}
+                 
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.179 \end{frame}
+                 
+
+ <./assets/lean_example_fail.png> <./assets/lean_example_fail2.png>]
+<assets/stakeholder_mapping.png, id=54, 1052.93375pt x 570.13pt>
+File: assets/stakeholder_mapping.png Graphic file (type png)
+<use assets/stakeholder_mapping.png>
+Package pdftex.def Info: assets/stakeholder_mapping.png  used on input line 193.
+(pdftex.def)             Requested size: 268.87737pt x 145.58566pt.
+ [6
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation5}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.193 \end{frame}
+                 
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.193 \end{frame}
+                 
+
+ <./assets/idea-funnel.png>]
+File: assets/stakeholder_mapping.png Graphic file (type png)
+<use assets/stakeholder_mapping.png>
+Package pdftex.def Info: assets/stakeholder_mapping.png  used on input line 205.
+(pdftex.def)             Requested size: 268.87737pt x 145.58566pt.
+ [7
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation6}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.205 \end{frame}
+                 
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.205 \end{frame}
+                 
+
+ <./assets/stakeholder_mapping.png>]
+File: assets/stakeholder_mapping.png Graphic file (type png)
+<use assets/stakeholder_mapping.png>
+Package pdftex.def Info: assets/stakeholder_mapping.png  used on input line 220.
+(pdftex.def)             Requested size: 268.87737pt x 145.58566pt.
+ [8
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation7}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.220 \end{frame}
+                 
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.220 \end{frame}
+                 
+
+]
 \tf@nav=\write6
 \openout6 = `midway_presentation.nav'.
 
@@ -1073,23 +1213,23 @@ l.117 \end{frame}
 \tf@snm=\write8
 \openout8 = `midway_presentation.snm'.
 
- [3
+ [9
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation2}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.132 \end{document}
-                    
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{Navigation8}) has been already used, duplicate ignored
 
 \pgfpages@shipoutshipoutbox ...physicalpagesizes }
                                                   \endgroup 
-l.132 \end{document}
+l.230 \end{document}
+                    
+pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has been already used, duplicate ignored
+
+\pgfpages@shipoutshipoutbox ...physicalpagesizes }
+                                                  \endgroup 
+l.230 \end{document}
                     
 
- <./assets/legal-lean-logo-black.png>] (./midway_presentation.aux)
+] (./midway_presentation.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
@@ -1098,18 +1238,18 @@ Package rerunfilecheck Info: File `midway_presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29594 strings out of 467538
- 567742 string characters out of 5419545
- 928962 words of memory out of 5000000
- 57907 multiletter control sequences out of 15000+600000
+ 29672 strings out of 467538
+ 569576 string characters out of 5419545
+ 931962 words of memory out of 5000000
+ 57973 multiletter control sequences out of 15000+600000
  686232 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,14n,123p,411b,798s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/newtx/txsym.pfb>
-Output written on midway_presentation.pdf (2 pages, 128780 bytes).
+Output written on midway_presentation.pdf (8 pages, 812436 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
- 48 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 105 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
+ 78 words of extra memory for PDF output out of 10000 (max. 10000000)
 
